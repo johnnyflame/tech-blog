@@ -4,15 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi there! I'm Johnny, nice to meet you. I'm a software engineer and a musician from New Zealand, currently living in Sweden. In this blog I'll write about new and interesting topics I come across from day to day, many will be related to my journey working in the software industry, but also other things I'm passionate about, such as music, and food.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
