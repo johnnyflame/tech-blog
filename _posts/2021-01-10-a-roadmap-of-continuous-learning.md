@@ -1,12 +1,44 @@
 ---
 layout: post
-title:  "Learning roadmap 2021"
+title:  "Design patterns Part 0: Motivation and overview"
 published: false
-categories: personal reflection
+categories: Design patterns
 ---
 
-One of the reasons I was drawn to the career path of a software developer is that it is a field that encourages continuous learning and growth. With that said, sometimes this can get a little overwhelming with the amount of knowledge out there. During the first year in the professional career. Fueled by the drive to learn as much as possible as fast as possible, I had a constant problem of setting ambitious reading goals on a wide range of topics, only to get distracted by the next shiny new thing on the radar. 
+# What are design patterns?
 
-Given this problem, I've decided to take a more methodic approach to learning, and make a mind map of areas I would like to do better at in 2021.
+One analogy that feels very natural to me is this: consider a bag of licks as a guitar player. 
+
+Another analogy is the collection of tropes and plot devices for a novelist, a screen write or other storytelling professions.
+
+
+# Why might we care about design patterns
+
+## Benefits
+
+* Common point of reference when discussing problems with a peer
+
+## Potential misuse
+
+
+
+# How to use it?
+
+
+
+# Categories of Design patterns
+
+## Creational
+
+## What problem does it solve?
+
+
+* Singleton
+* Builder
+* 
+
+## Structural 
+
+## Behavioral 
 
 
